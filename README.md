@@ -17,7 +17,7 @@ TshirtCP is a Java-based online shopping application for purchasing T-shirts. Th
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/TshirtCP.git`
+1. Clone the repository: `git clone https://github.com/yourusername/TshirtCP.git](https://github.com/techcodebhavesh/OOPS_CP__SEM3.git`
 2. Set up a MySQL database and update the database connection details in the code.
 3. Compile and run the `TshirtMenu` class to start the application.
 
