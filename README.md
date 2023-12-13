@@ -38,7 +38,7 @@ TshirtCP is a Java-based online shopping application for purchasing T-shirts. Th
 
 ## Screenshots
 
-![TshirtCP Screenshot](/screenshots/tshirtcp_screenshot.png)
+![TshirtCP Screenshot](/tshirtcp_screenshot.png)
 
 ## Contributing
 
