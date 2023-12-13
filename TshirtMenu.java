@@ -188,7 +188,7 @@ public class TshirtMenu extends JFrame {
     private void initializeDatabase() {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/tscp", "root", "sqlbawater@12");
+            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/tscp", "root", "password");
         } catch (Exception e) {
             System.out.println(e);
         }
